@@ -1,0 +1,15 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'first_draft.blg'
+[76] biber:340> INFO - === Mon Oct 30, 2023, 12:47:29
+[87] Biber.pm:415> INFO - Reading 'first_draft.bcf'
+[153] Biber.pm:952> INFO - Found 4 citekeys in bib section 0
+[164] Biber.pm:4340> INFO - Processing section 0
+[173] Biber.pm:4531> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[174] bibtex.pm:1689> INFO - LaTeX decoding ...
+[180] bibtex.pm:1494> INFO - Found BibTeX data source 'bibliography.bib'
+[237] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[237] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[237] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'fr-FR'
+[237] Biber.pm:4174> INFO - No sort tailoring available for locale 'fr-FR'
+[242] bbl.pm:654> INFO - Writing 'first_draft.bbl' with encoding 'UTF-8'
+[244] bbl.pm:757> INFO - Output to first_draft.bbl

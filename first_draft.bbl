@@ -1,0 +1,126 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{DevopsIdeas22}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4f46dc3b982113d5b99a19bebfb797b0}{%
+           family={DevopsIdeas},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f46dc3b982113d5b99a19bebfb797b0}
+      \strng{fullhash}{4f46dc3b982113d5b99a19bebfb797b0}
+      \strng{bibnamehash}{4f46dc3b982113d5b99a19bebfb797b0}
+      \strng{authorbibnamehash}{4f46dc3b982113d5b99a19bebfb797b0}
+      \strng{authornamehash}{4f46dc3b982113d5b99a19bebfb797b0}
+      \strng{authorfullhash}{4f46dc3b982113d5b99a19bebfb797b0}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://devopsideas.com/different-elasticsearch-components-and-what-they-mean-in-5-mins/}}
+      \field{note}{Vue: 2023-10-27}
+      \field{title}{Different Elasticsearch components and what they mean}
+      \field{year}{2022}
+    \endentry
+    \entry{Gopalakrishnan23}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f3f7195d1a973628a73c9bc700f098ed}{%
+           family={Gopalakrishnan},
+           familyi={G\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f3f7195d1a973628a73c9bc700f098ed}
+      \strng{fullhash}{f3f7195d1a973628a73c9bc700f098ed}
+      \strng{bibnamehash}{f3f7195d1a973628a73c9bc700f098ed}
+      \strng{authorbibnamehash}{f3f7195d1a973628a73c9bc700f098ed}
+      \strng{authornamehash}{f3f7195d1a973628a73c9bc700f098ed}
+      \strng{authorfullhash}{f3f7195d1a973628a73c9bc700f098ed}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.knowi.com/blog/what-is-elastic-search/}}
+      \field{note}{Vue: 2023-10-27}
+      \field{title}{Elasticsearch: What it is, How it works, and what it’s used for}
+      \field{year}{2023}
+    \endentry
+    \entry{heikohotz23}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=58b907602ac12a5f10fd726007178f44}{%
+           family={Hotz},
+           familyi={H\bibinitperiod},
+           given={Heiko},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{58b907602ac12a5f10fd726007178f44}
+      \strng{fullhash}{58b907602ac12a5f10fd726007178f44}
+      \strng{bibnamehash}{58b907602ac12a5f10fd726007178f44}
+      \strng{authorbibnamehash}{58b907602ac12a5f10fd726007178f44}
+      \strng{authornamehash}{58b907602ac12a5f10fd726007178f44}
+      \strng{authorfullhash}{58b907602ac12a5f10fd726007178f44}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7}}
+      \field{note}{Vue: 2023-10-27}
+      \field{title}{RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?}
+      \field{year}{2023}
+    \endentry
+    \entry{ibmragarticle23}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a045cf092b7d441e40c3284ced066c84}{%
+           family={Martineau},
+           familyi={M\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a045cf092b7d441e40c3284ced066c84}
+      \strng{fullhash}{a045cf092b7d441e40c3284ced066c84}
+      \strng{bibnamehash}{a045cf092b7d441e40c3284ced066c84}
+      \strng{authorbibnamehash}{a045cf092b7d441e40c3284ced066c84}
+      \strng{authornamehash}{a045cf092b7d441e40c3284ced066c84}
+      \strng{authorfullhash}{a045cf092b7d441e40c3284ced066c84}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://research.ibm.com/blog/retrieval-augmented-generation-RAG}}
+      \field{note}{Vue: 2023-10-27}
+      \field{title}{What is retrieval-augmented generation?}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
