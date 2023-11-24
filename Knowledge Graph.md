@@ -22,7 +22,7 @@ Grâce à combinaison de Knowledge Graph et LLM, nous aurons un résultat pertin
 
 en savoir plus: [RManLuo/Awesome-LLM-KG: Awesome papers about unifying LLMs and KGs (github.com)](https://github.com/RManLuo/Awesome-LLM-KG#llm-augmented-kgs)
 
-## KG-enchanced LLMs
+## KG-enchanced LLMs (KG qui aide LLM)
 
 Les LLMs sont réputés pour leur capacité dans traitement du langage naturel (NLP). Cependant, les LLM sont souvent critiqués pour leurs problèmes d'hallucination et leur manque d'interprétabilité. Pour résoudre ces problèmes, les chercheurs ont proposé d'améliorer les LLM avec des graphes de connaissances (KG).
 
@@ -31,7 +31,7 @@ Les chercheurs ont proposé quelques méthodes:
 1. **Intégration pendant la phase de pré-entraînement** : Cette méthode consiste à inclure les KGs pendant le pré-entraînement des LLM. Cela permet aux LLM d'apprendre des connaissances à partir des KGs.
 2. **Intégration pendant la phase d'inférence** : Cette méthode consiste à utiliser les KGs pour fournir des informations supplémentaires aux LLM pendant la phase d'inférence. Cela peut améliorer les performances des LLM dans l'accès aux connaissances spécifiques au domaine.
 
-## LLM-augmented KGs
+## LLM-augmented KGs (LLM qui aide KG)
 
 Utilisation de LLM afin de améliorer la performance de KG dans ces taches:
 
